@@ -17,9 +17,10 @@ Install python packages
 python3 -m pip install -r requirements.txt
 ```
 
-Create team member data file
+Create team member data files
 ```
 printf "Aaron\nBob\nAlice" > team_members.txt
+touch team_member_history.txt
 ```
 
 Make sure you have the spotify client running on your device and a playlist called "Meeting music" with good (appropriate) music.
