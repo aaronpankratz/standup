@@ -87,7 +87,6 @@ green_be
 hades___
 heavy_me
 heroboti
-high_noo
 hills___
 home_pak
 house_of
@@ -131,7 +130,6 @@ rad_____
 rad_phan
 radical_
 rainbow_
-rally_s2
 rally_sp
 rampage_
 rastan__
